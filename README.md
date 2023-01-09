@@ -18,7 +18,7 @@ Sivulla https://applied-language-technology.mooc.fi/html/getting_started.html on
 
 Tehtävien tarkistus tapahtuu automaattisesti CSC Notebooks-ympäristössä Test My Code -alustan kautta. Tätä varten tarvitset tunnukset myös TMC-alustalle, ne voi hakea osoitteessa https://tmc.mooc.fi/.
 
-CSC Notebooksin käyttöön voi tutustua myös tällä videolla: XXXX
+CSC Notebooksin käyttöön voi tutustua myös tällä videolla: https://drive.google.com/file/d/1CiL8qu_t2V5-PAzxggaU6QawjOCcl0Y0/view?usp=sharing 
 
 ### Kurssin suorittaminen
 
