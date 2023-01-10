@@ -16,9 +16,14 @@ Tehtävät löytyvät CSC Notebooks alustalta, osoitteessa https://notebooks.rah
 
 Sivulla https://applied-language-technology.mooc.fi/html/getting_started.html on hyvät ohjeet Notebooksin käytöstä. 
 
-Tehtävien tarkistus tapahtuu automaattisesti CSC Notebooks-ympäristössä Test My Code -alustan kautta. Tätä varten tarvitset tunnukset myös TMC-alustalle, ne voi hakea osoitteessa https://tmc.mooc.fi/.
+CSC-Notebooks-ympäristössä näkyy heti kurssin materiaalit hakemistoissa "notebooks" ruudun vasemmassa reunassa.
 
-CSC Notebooksin käyttöön voi tutustua myös tällä videolla: https://drive.google.com/file/d/1qxprMXa4QiXziVu5EsNPFL9ktlPeLkpw/view?usp=sharing
+Tehtävät tulevant Notebooks-ympäristöön Test My Code -alustan kautta. 
+Tätä varten tarvitset tunnukset myös TMC-alustalle, ne voi hakea osoitteessa https://tmc.mooc.fi/.
+
+Tehtävät ladataan Notebooks-ympäristöön erikseen terminaalin kautta, jolloin vasempaan hakemistoon ilmestyy myös hakemisto "ty-utu-working-with-text". Täältä löytyy tehtävät. Myös niiden tarkistus tapahtuu automaattisesti Test My Code -alustan kautta. 
+
+CSC Notebooksin ja TMC:n käyttöön voi tutustua myös tällä videolla [Edit 10.1 - päivitän uuden videon asap): https://drive.google.com/file/d/1qxprMXa4QiXziVu5EsNPFL9ktlPeLkpw/view?usp=sharing
 
 ### Kurssin suorittaminen
 
