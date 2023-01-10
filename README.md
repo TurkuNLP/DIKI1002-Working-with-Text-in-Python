@@ -33,7 +33,7 @@ Tehtävien oikeat ratkaisut tulevat Githubiin deadlinen jälkeen tiistaina. Teht
 
 Lisäksi pidän kurssin tehtäviin liittyvän päivystysajan perjantaisin klo 12.00-13.00 Zoomissa: https://utu.zoom.us/j/64798833407 Tänne voi tulla kysymään tehtävistä ja saamaan apua, jos keskustelupalsta ei tuota tulosta, ja joku asia askarruttaa!
 
-Tehtävät voi ensin tarkistaa (tmc test), ja kun olet tyytyväinen arvosanaasi, lähettää virallisesti arvioitaviksi (tmc submit). Ohjeet tälle löytyvät osoitteesta https://applied-language-technology.mooc.fi/html/getting_started.htm, ks. myös yllä linkattu video!
+Tehtävät voi ensin tarkistaa (tmc test), ja kun olet tyytyväinen arvosanaasi, lähettää virallisesti arvioitaviksi (tmc submit). Ohjeet tälle löytyvät osoitteesta https://applied-language-technology.mooc.fi/html/getting_started.html, ks. myös yllä linkattu video!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
