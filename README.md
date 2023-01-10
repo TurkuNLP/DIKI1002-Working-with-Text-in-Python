@@ -21,9 +21,11 @@ CSC-Notebooks-ympäristössä näkyy heti kurssin materiaalit hakemistoissa "not
 Tehtävät tulevant Notebooks-ympäristöön Test My Code -alustan kautta. 
 Tätä varten tarvitset tunnukset myös TMC-alustalle, ne voi hakea osoitteessa https://tmc.mooc.fi/.
 
-Tehtävät ladataan Notebooks-ympäristöön erikseen terminaalin kautta, jolloin vasempaan hakemistoon ilmestyy myös hakemisto "ty-utu-working-with-text". Täältä löytyy tehtävät. Myös niiden tarkistus tapahtuu automaattisesti Test My Code -alustan kautta. 
+Tehtävät ladataan Notebooks-ympäristöön erikseen terminaalin kautta, jolloin vasempaan hakemistoon ilmestyy myös hakemisto "ty-utu-working-with-text". Täältä löytyy tehtävät. Myös niiden tarkistus tapahtuu automaattisesti Test My Code -alustan kautta.
 
-CSC Notebooksin ja TMC:n käyttöön voi tutustua myös tällä videolla [Edit 10.1 - päivitän uuden videon asap): https://drive.google.com/file/d/1qxprMXa4QiXziVu5EsNPFL9ktlPeLkpw/view?usp=sharing
+CSC Notebooksin ja TMC:n käyttöön voi tutustua myös tällä videolla:  https://drive.google.com/file/d/1NPuDcmd7ds1O2N3gknQaLkbgSFh-Agx9/view?usp=sharing 
+
+HUOM: tmc test testaa tehtävät lokaalisti sinua itseäsi varten. Ainoastaan komento tmc submit palauttaa ne, joten muista tehdä tämä submittaus!
 
 ### Kurssin suorittaminen
 
