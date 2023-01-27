@@ -59,38 +59,34 @@ Tehtävät voi ensin tarkistaa (tmc test), ja kun olet tyytyväinen arvosanaasi,
 #### Viikko 3
 * part_03-regular_expressions
 * Zoom-päivystys pe 27.1 klo 12.00-13.00 https://utu.zoom.us/j/64798833407
-* Tehtävien dl ma 30.1 klo 23.59
-* Oikeat vastaukset Githubissa ti 31.1
+* Tehtävien dl ma 30.1 klo 23.59 (soft dl, myöhemmin palauttaminen mahdollista)
 
 #### Viikko 4
 * part_04-spacy_basics
 * Zoom-päivystys pe 3.2 klo 12.00-13.00 https://utu.zoom.us/j/64798833407
-* Tehtävien dl ma 6.2 klo 23.59
-* Oikeat vastaukset Githubissa ti 7.2
+* Tehtävien dl ma 6.2 klo 23.59 (soft dl, myöhemmin palauttaminen mahdollista)
 
 #### Viikko 5
 * part_05-customising_spacy
 * Zoom-päivystys pe 10.2 klo 12.00-13.00 https://utu.zoom.us/j/64798833407
-* Tehtävien dl ma 13.2 klo 23.59
-* Oikeat vastaukset Githubissa ti 14.2
+* Tehtävien dl ma 13.2 klo 23.59 (soft dl, myöhemmin palauttaminen mahdollista)
 
 #### Viikko 6
 * part_06-evaluation
 * Zoom-päivystys pe 17.2 klo 12.00-13.00 https://utu.zoom.us/j/64798833407
-* Tehtävien dl ma 20.2 klo 23.59
-* Oikeat vastaukset Githubissa ti 21.2
+* Tehtävien dl ma 20.2 klo 23.59 (soft dl, myöhemmin palauttaminen mahdollista)
 
 #### Viikko 7
 * part_07-pandas_basics
 * Zoom-päivystys pe 24.2 klo 12.00-13.00 https://utu.zoom.us/j/64798833407
-* Tehtävien dl ma 27.2 klo 23.59
-* Oikeat vastaukset Githubissa ti 28.2
+* Tehtävien dl ma 27.2 klo 23.59 (hard dl, ei myöhempää palautusta)
+* Kaikkien tehtävien oikeat vastaukset Githubissa ti 28.2
 
 #### Viikko 8 - Exam
 * part_08-final_exam
-* dl 13.3
+* dl 13.3 (ei myöhempää palautusta)
 
 #### Viikko 9
 * When you are happy with the exam result, do this! It only takes a minute.
-* dl 16.3
+* dl 16.3  (ei myöhempää palautusta)
 * Tämän jälkeen merkkaan suorituksen Peppiin!
