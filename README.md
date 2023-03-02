@@ -80,7 +80,8 @@ Tehtävät voi ensin tarkistaa (tmc test), ja kun olet tyytyväinen arvosanaasi,
 * part_07-pandas_basics
 * Zoom-päivystys pe 24.2 klo 12.00-13.00 https://utu.zoom.us/j/64798833407
 * Tehtävien dl ma 27.2 klo 23.59 (hard dl, ei myöhempää palautusta)
-* Kaikkien tehtävien oikeat vastaukset Githubissa ti 28.2
+* Kaikkien tehtävien oikeat vastaukset saatavilla ti 28.2
+* Linkki oikeisiin vastauksiin: https://drive.google.com/drive/folders/1VVqtO3gZM3SqoE0ewI9GJdtxKg5PYjJp?usp=sharing 
 
 #### Viikko 8 - Exam
 * part_08-final_exam
