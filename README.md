@@ -41,7 +41,9 @@ The course consists of the weekly exercises, discussion on the discussion forum,
 
 The deadline for the weekly exercises is on Mondays at 23.59, excluding the first week, when the dl is on Wednesday to leave sufficient time to do the exercises. The exercises are returned using the tmc submit command.
 
-The correct solutions are shown here on Github after the deadline, on Wednesday. The exercises cover seven weeks, and the exam the week eight.
+You need to get at least 30% of the points to get to the next exercise. Submitting the exercises late is possible until Wednesday, but you can only get 75% of the points if the submission is late.
+
+The correct solutions are shown here on Github after the deadline, on Thursday. The exercises cover seven weeks, and the exam the week eight.
 
 Additionally, I keep office hours every Friday at 12.15-13.00 on Zoom: https://utu.zoom.us/j/63443700986
 This is for asking further questions on the exercises, if the discussion forum is not sufficient.
