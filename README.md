@@ -62,37 +62,37 @@ You can first check your grade using tmc test, and once you are happy with your 
 * part_02-loading_data
 * Office hours on Friday, January 19, at 12.15-13.00, at https://utu.zoom.us/j/63443700986
 * Exercise dl on Monday, Jan 22 (23.59)
-* Correct answers available on Wednesday, Jan 24
+* Correct answers available on Thursday, Jan 25
 
 #### Week 3
 * part_03-regular_expressions
 * Office hours on Friday, January 26, at 12.15-13.00, at https://utu.zoom.us/j/63443700986
 * Exercise dl on Monday, Jan 29 (23.59)
-* Correct answers available on Wednesday, Jan 31
+* Correct answers available on Thursday, Feb 1
 
 #### Week 4
 * part_04-spacy_basics
 * Office hours on Friday, Feb 2, at 12.15-13.00, at https://utu.zoom.us/j/63443700986
 * Exercise dl on Monday, Feb 5 (23.59)
-* Correct answers available on Wednesday, Feb 7
+* Correct answers available on Thursday, Feb 8
 
 #### Week 5
 * part_05-customising_spacy
 * Office hours on Friday, Feb 9, at 12.15-13.00, at https://utu.zoom.us/j/63443700986
 * Exercise dl on Monday, Feb 12 (23.59)
-* Correct answers available on Wednesday, Feb 14
+* Correct answers available on Thursday, Feb 15
 
 #### Week 6
 * part_06-evaluation
 * Office hours on Friday, Feb 16, at 12.15-13.00, at https://utu.zoom.us/j/63443700986
 * Exercise dl on Monday, Feb 19 (23.59)
-* Correct answers available on Wednesday, Feb 21
+* Correct answers available on Thursday, Feb 22
 
 #### Week 7
 * part_07-pandas_basics
 * Office hours on Friday, Feb 23, at 12.15-13.00, at https://utu.zoom.us/j/63443700986
 * Exercise dl on Monday, Feb 26 (23.59)
-* Correct answers available on Wednesday, Feb 28
+* Correct answers available on Thursday, March 1
 
 #### Week 8 - Exam
 * part_08-final_exam
