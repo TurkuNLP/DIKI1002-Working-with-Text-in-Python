@@ -22,15 +22,18 @@ To get to the** course environment,** please do the following steps:
 
 Detailed instructions on how to use Notebooks can be found here: https://applied-language-technology.mooc.fi/html/getting_started.html 
 
-**The exercises** come to the Notebooks environment using the platform Test My Code. You need to create credentials to TMC at https://tmc.mooc.fi/.
+**The exercises** come to the Notebooks environment using the platform Test My Code. First, you need to create credentials to TMC at https://tmc.mooc.fi/.
+Detailed instructions on how to use TMC can be found here: https://applied-language-technology.mooc.fi/html/tmc.html. Please read those.
+A short video on how to log into CSC Notebooks and use TMC can be found here: https://drive.google.com/file/d/1NPuDcmd7ds1O2N3gknQaLkbgSFh-Agx9/view?usp=sharing (Finnnish)
 
-The exercises are copied to the course platform (Notebooks) using the terminal. Once this is done, the directory "ty-utu-working-with-text" appears in the menu on the left. 
-The exercises are also evaluated using TMC, automatically.
-
-Instructions on how to use TMC can be found here: https://applied-language-technology.mooc.fi/html/tmc.html
-
-Finally, a short video on how to log into CSC Notebooks and use TMC can be found here: https://drive.google.com/file/d/1NPuDcmd7ds1O2N3gknQaLkbgSFh-Agx9/view?usp=sharing (Finnnish)
-
+The steps to copy the exercises are: 
+1) Type the command tmc login on the terminal command line and press enter
+2) Give your username and password (the password you type does not show, but it is still registered)
+3) If the login is successful, TMC will prompt you to select an organization. Please select "ty-utu-working-with-text"-
+4) Download the exercises by typing tmc download (and enter)
+5) Now, the exercise notebooks should show in the menu on left.
+   
+Once you have done the exercise of the week, you can test how many points you get, and when happy with the result, submit your exercise. The testing is done with the command tmc test, and submission with tmc submit.
 N.B.! the command tmc test evaluates your exercises locally, for you. Only the command tmc submit submits them to the course platform, where I can see them. Remember to submit!
 
 ### Passing the course
