@@ -23,7 +23,9 @@ To get to the** course environment,** please do the following steps:
 Detailed instructions on how to use Notebooks can be found here: https://applied-language-technology.mooc.fi/html/getting_started.html 
 
 **The exercises** come to the Notebooks environment using the platform Test My Code. First, you need to create credentials to TMC at https://tmc.mooc.fi/.
+
 Detailed instructions on how to use TMC can be found here: https://applied-language-technology.mooc.fi/html/tmc.html. Please read those.
+
 A short video on how to log into CSC Notebooks and use TMC can be found here: https://drive.google.com/file/d/1NPuDcmd7ds1O2N3gknQaLkbgSFh-Agx9/view?usp=sharing (Finnnish)
 
 The steps to copy the exercises are: 
