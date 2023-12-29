@@ -1,5 +1,5 @@
 # DIKI1002-Working-with-Text-in-Python
-
+ 
 ## Course description
 The course consists of teaching materials, weekly exercises and exam. Additionally, you can get extra points by participating actively in the discussions on the course discussion forum. The link to the discussion forum is above under "Discussions". You can get 3 points / week, in total 24 points. 
 
