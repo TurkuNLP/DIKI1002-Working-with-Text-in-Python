@@ -2,15 +2,18 @@
  
 ## Course description
 The course is based on weekly teaching materials and exercises as well as an exam at the end of the course. 
+
 The course is a modified version of the MOOC by Tuomo Hiippala (Uni Helsinki). Some instructions may mention the MOOC - nevermind those.
 
 ## Interaction
 The course discussion forum (link above under "Discussions" is the main platform for interacting with other students. There you can ask questions, and get help to the exercises. Participating in the discussions in rewarded in the course evaluation. By participating actively (either asking or answering), you can get 3 extra points / week. 
+
 Additionally, I keep weekly office hours on Fridays on Zoom (link below). This is for solving questions that are not solved in the discussion forum, or if you have other things you would want to discuss with me.
 
 ### Passing the course
 
 The course consists of the weekly exercises, discussion on the discussion forum, and the exam (also done on CSC Notebooks). To do the exam, you need to have submitted all the weekly exercises. 
+
 Please note that the deadline for submitting the exercises is on Mondays at 23.59, excluding the first week, when the dl is on Wednesday to leave sufficient time to do the exercises.
 You need to get at least 30% of the points to get to the next exercise. Submitting the exercises late is possible until Wednesday, but you can only get 75% of the points if the submission is late.
 
