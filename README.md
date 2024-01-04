@@ -29,10 +29,10 @@ Parts I and II belong to this course, part III to the next course, ”Natural La
 The course happens on the platform CSC Notebooks, available at https://notebooks.rahtiapp.fi/. 
 
 To get to the** course environment,** please do the following steps:
-1) Enroll to the course by signing in using your HAKA (that is UTU) -credentials
-2) Write the code dik-vozfxsbq to ”Join workspace”. After these two steps, you should see the course in your "My workspaces".
-3) Click on the starting icon on the right side of the course name box. This starts a session on the course server.
-4) Once you have started a session, the course materials are listed under the directory "notebooks" on the left side of the screen.
+1) Log in to the notebooks by signing in using your HAKA (that is UTU) -credentials
+2) Find the correct course environment by writing the code dik-l31w8jxw to ”Join workspace”. After these two steps, you should see the course "DIKI1002/1003 Course Environment" in your "My workspaces".
+4) Click on the starting icon on the right side of the course name box. This starts a session on the course server.
+5) Once you have started a session, the course materials are listed under the directory "notebooks" on the left side of the screen.
 
 Detailed instructions on how to use Notebooks can be found here: https://applied-language-technology.mooc.fi/html/getting_started.html 
 
