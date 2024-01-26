@@ -65,13 +65,13 @@ Remember that
 * part_01-a_taste_of_python
 * Office hours on Friday, January 12, at 12.15-13.00, at https://utu.zoom.us/j/63443700986
 * Exercise dl on Wednesday, Jan 17 (23.59)
-* Correct answers available on Thursday, Jan 18
+* Correct answers: https://drive.google.com/file/d/1Y8fEce7wRZ-dynebxW7Y56FySVTXlHo5/view?usp=sharing
 
 #### Week 2
 * part_02-loading_data
 * Office hours on Friday, January 19, at 12.15-13.00, at https://utu.zoom.us/j/63443700986
 * Exercise dl on Monday, Jan 22 (23.59)
-* Correct answers available on Thursday, Jan 25
+* Correct answers: https://drive.google.com/file/d/1SPG8a2mA0IUL5MgLO6p7Y1AOJ_ZbG-gI/view?usp=sharing
 
 #### Week 3
 * part_03-regular_expressions
