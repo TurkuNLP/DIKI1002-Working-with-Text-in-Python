@@ -77,7 +77,7 @@ Remember that
 * part_03-regular_expressions
 * Office hours on Friday, January 26, at 12.15-13.00, at https://utu.zoom.us/j/63443700986
 * Exercise dl on Monday, Jan 29 (23.59)
-* Correct answers available on Thursday, Feb 1
+* Correct answers: https://drive.google.com/file/d/1GIiLXnkb74PK_2ERAnX4z3UkZXbKfVx1/view?usp=sharing
 
 #### Week 4
 * part_04-spacy_basics
