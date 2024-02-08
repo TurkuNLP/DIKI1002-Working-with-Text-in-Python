@@ -83,7 +83,7 @@ Remember that
 * part_04-spacy_basics
 * Office hours on Friday, Feb 2, at 12.15-13.00, at https://utu.zoom.us/j/63443700986
 * Exercise dl on Monday, Feb 5 (23.59)
-* Correct answers available on Thursday, Feb 8
+* Correct answers https://drive.google.com/file/d/1jgJnCWoCX76jsjvRCJlgNXlFJEXNRA3R/view?usp=sharing
 
 #### Week 5
 * part_05-customising_spacy
