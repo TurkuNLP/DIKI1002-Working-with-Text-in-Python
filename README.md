@@ -101,7 +101,7 @@ Remember that
 * part_07-pandas_basics
 * Office hours on Friday, Feb 23, at 12.15-13.00, at https://utu.zoom.us/j/63443700986
 * Exercise dl on Monday, Feb 26 (23.59)
-* Correct answers available on Thursday, March 1
+* Correct answers: https://drive.google.com/file/d/1aHOfeyZAhpqcUI-5OGWs0hdhodGegVpk/view?usp=sharing
 
 #### Week 8 - Exam
 * part_08-final_exam
