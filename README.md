@@ -8,14 +8,14 @@ The course is a modified version of the MOOC by Tuomo Hiippala (Uni Helsinki). S
 ## Interaction
 The course discussion forum (link above under "Discussions" is the main platform for interacting with other students. There you can ask questions, and get help to the exercises. Participating in the discussions in rewarded in the course evaluation. By participating actively (either asking or answering), you can get 3 extra points / week. 
 
-Additionally, I keep weekly office hours on Fridays on Zoom (link below). This is for solving questions that are not solved in the discussion forum, or if you have other things you would want to discuss with me.
+Additionally, I keep weekly office hours on Wednesdays on Zoom (link below). This is for solving questions that are not solved in the discussion forum, or if you have other things you would want to discuss with me.
 
 ### Passing the course
 
 The course consists of the weekly exercises, discussion on the discussion forum, and the exam (also done on CSC Notebooks). To do the exam, you need to have submitted all the weekly exercises. 
 
-Please note that the deadline for submitting the exercises is on Mondays at 23.59, excluding the first week, when the dl is on Wednesday to leave sufficient time to do the exercises.
-You need to get at least 30% of the points to get to the next exercise. Submitting the exercises late is possible until Wednesday, but you can only get 75% of the points if the submission is late.
+Please note that the deadline for submitting the exercises is on Mondays at 08.00.
+You need to get at least 30% of the points to get to the next exercise. Submitting the exercises late is possible until Wednesday morning (08.00), but you can only get 75% of the points if the submission is late.
 
 The evaluation is based on the exam with extra points from participating actively in the forum discussions.
 
@@ -53,7 +53,7 @@ Once you have done the exercise of the week, you can test how many points you ge
 N.B.! the command tmc test evaluates your exercises locally, for you. Only the command tmc submit submits them to the course platform, where I can see them. Remember to submit!
 
 ### Course schedule
-The correct solutions are shown here on Github after the deadline, on Thursday. The exercises cover seven weeks, and the exam the week eight.
+The correct solutions are shown here on Github after the deadline, on Wednesday. The exercises cover seven weeks, and the exam the week eight.
 
 Remember that 
 1) You need to have selected the course ty-utu-working-with-text on TMC (a frequent error is to submit the exercises to the MOOC)
