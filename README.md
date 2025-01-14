@@ -26,11 +26,11 @@ Parts I and II belong to this course, part III to the next course, ”Natural La
 
 ### Course environment
 
-The course happens on the platform CSC Notebooks, available at https://notebooks.rahtiapp.fi/. 
+The course happens on the platform CSC Notebooks, available at https://noppe.2.rahtiapp.fi/welcome. 
 
 To get to the** course environment,** please do the following steps:
 1) Log in to the notebooks by signing in using your HAKA (that is UTU) -credentials
-2) Find the correct course environment by writing the code dik-l31w8jxw to ”Join workspace”. After these two steps, you should see the course "DIKI1002/1003 Course Environment" in your "My workspaces".
+2) Find the correct course environment by writing the code dik-itvyxi98 to ”Join workspace”. After these two steps, you should see the course "DIKI1002/1003 Course Environment - 2025 version" in your "My workspaces".
 4) Click on the starting icon on the right side of the course name box. This starts a session on the course server.
 5) Once you have started a session, the course materials are listed under the directory "notebooks" on the left side of the screen.
 
@@ -45,18 +45,19 @@ A short video on how to log into CSC Notebooks and use TMC can be found here: ht
 The steps to copy the exercises are: 
 1) Type the command tmc login on the terminal command line and press enter
 2) Give your username and password (the password you type does not show, but it is still registered)
-3) If the login is successful, TMC will prompt you to select an organization. Please select "ty-utu-working-with-text"-
+3) If the login is successful, TMC will prompt you to select an organization. Please select **"ty-utu-working-with-text"**
 4) Download the exercises by typing tmc download (and enter)
 5) Now, the exercise notebooks should show in the menu on left.
    
 Once you have done the exercise of the week, you can test how many points you get, and when happy with the result, submit your exercise. The testing is done with the command tmc test, and submission with tmc submit.
-N.B.! the command tmc test evaluates your exercises locally, for you. Only the command tmc submit submits them to the course platform, where I can see them. Remember to submit!
+N.B.! the command tmc test evaluates your exercises locally, for you. Only the command tmc submit submits them to the course platform, where I can see them. **Remember to submit!**
+**Also: please ensure you are submitting to the course ty-working-with-text.** If you accidentally submit to Helsinki, I cannot see your work.
 
 ### Course schedule
 The correct solutions are shown here on Github after the deadline, on Wednesday. The exercises cover seven weeks, and the exam the week eight.
 
 Remember that 
-1) You need to have selected the course ty-utu-working-with-text on TMC (a frequent error is to submit the exercises to the MOOC)
+1) You need to have selected the course **ty-utu-working-with-text on TMC** (a frequent error is to submit the exercises to the MOOC)
 2) The exercises are returned using the tmc submit command. You can first check your grade using tmc test, and once you are happy with your grade, you should submit your final version using tmc submit (see above for further info).
 3) You need to submit the exercises on time.
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------
