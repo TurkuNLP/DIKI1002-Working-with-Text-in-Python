@@ -72,7 +72,7 @@ Remember that
 * part_02-loading_data
 * Office hours on Wednesday, January 29, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
 * Exercise dl on Monday, February 3 MORNING (08.00)
-* Correct answers: 
+* Correct answers: https://drive.google.com/file/d/1SPG8a2mA0IUL5MgLO6p7Y1AOJ_ZbG-gI/view?usp=sharing 
 
 #### Week 3
 * part_03-regular_expressions
