@@ -78,13 +78,13 @@ Remember that
 * part_03-regular_expressions
 * Office hours on Wednesday, February 5, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
 * Exercise dl on Monday, February 10 MORNING (08.00)
-* Correct answers: 
+* Correct answers: https://drive.google.com/file/d/1GIiLXnkb74PK_2ERAnX4z3UkZXbKfVx1/view?usp=sharing
 
 #### Week 4
 * part_04-spacy_basics
 * Office hours on Wednesday, Feb 12, at at 9.00-10.00, at https://utu.zoom.us/j/62780466942
 * Exercise dl on Monday, February 17 MORNING (08.00)
-* Correct answers: https://drive.google.com/file/d/1jgJnCWoCX76jsjvRCJlgNXlFJEXNRA3R/view?usp=sharing 
+* Correct answers: 
 
 #### Week 5
 * part_05-customising_spacy
