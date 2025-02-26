@@ -90,7 +90,7 @@ Remember that
 * part_05-customising_spacy
 * Office hours on Wednesday, Feb 19, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
 * Exercise dl on Monday, February 24 MORNING (08.00)
-* Correct answers: 
+* Correct answers: https://drive.google.com/file/d/1s86FDMhY1EfhkXUEeelc-OcdNX1vAf7k/view?usp=sharing
 
 #### Week 6
 * part_06-evaluation
