@@ -96,7 +96,7 @@ Remember that
 * part_06-evaluation
 * Office hours on Wednesday, Feb 26, at at 9.00-10.00, at https://utu.zoom.us/j/62780466942
 * Exercise dl on Monday, March 3 MORNING (08.00)
-* Correct answers: 
+* Correct answers: https://drive.google.com/file/d/1jgJnCWoCX76jsjvRCJlgNXlFJEXNRA3R/view?usp=sharing
 
 #### Week 7
 * part_07-pandas_basics
