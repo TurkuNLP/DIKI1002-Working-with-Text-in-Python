@@ -30,7 +30,7 @@ The course happens on the platform CSC Notebooks, available at https://noppe.2.r
 
 To get to the** course environment,** please do the following steps:
 1) Log in to the notebooks by signing in using your HAKA (that is UTU) -credentials
-2) Find the correct course environment by writing the code dik-itvyxi98 to ”Join workspace”. After these two steps, you should see the course "DIKI1002/1003 Course Environment - 2025 version" in your "My workspaces".
+2) Find the correct course environment by writing the code dik-itvyxi98 to ”Join workspace”. After these two steps, you should see the course "DIKI1002/1003 Course Environment - 2026 version" in your "My workspaces".
 4) Click on the starting icon on the right side of the course name box. This starts a session on the course server.
 5) Once you have started a session, the course materials are listed under the directory "notebooks" on the left side of the screen.
 
