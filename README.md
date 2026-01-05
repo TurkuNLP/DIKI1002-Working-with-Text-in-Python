@@ -64,44 +64,44 @@ Remember that
 
 #### Week 1
 * part_01-a_taste_of_python
-* Office hours on Wednesday, January 22, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
-* Exercise dl on Monday, Jan 27 MORNING (08.00)
-* Correct answers: https://drive.google.com/file/d/1Y8fEce7wRZ-dynebxW7Y56FySVTXlHo5/view?usp=sharing
-
+* Office hours on Wednesday, January 21, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
+* Exercise dl on Monday, Jan 26 MORNING (08.00)
+* Correct answers:
+  
 #### Week 2
 * part_02-loading_data
-* Office hours on Wednesday, January 29, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
-* Exercise dl on Monday, February 3 MORNING (08.00)
-* Correct answers: https://drive.google.com/file/d/1SPG8a2mA0IUL5MgLO6p7Y1AOJ_ZbG-gI/view?usp=sharing 
-
+* Office hours on Wednesday, January 28, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
+* Exercise dl on Monday, February 2 MORNING (08.00)
+* Correct answers:
+  
 #### Week 3
 * part_03-regular_expressions
-* Office hours on Wednesday, February 5, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
-* Exercise dl on Monday, February 10 MORNING (08.00)
-* Correct answers: https://drive.google.com/file/d/1GIiLXnkb74PK_2ERAnX4z3UkZXbKfVx1/view?usp=sharing
+* Office hours on Wednesday, February 4, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
+* Exercise dl on Monday, February 9 MORNING (08.00)
+* Correct answers: 
 
 #### Week 4
 * part_04-spacy_basics
-* Office hours on Wednesday, Feb 12, at at 9.00-10.00, at https://utu.zoom.us/j/62780466942
-* Exercise dl on Monday, February 17 MORNING (08.00)
-* Correct answers: https://drive.google.com/file/d/1jgJnCWoCX76jsjvRCJlgNXlFJEXNRA3R/view?usp=sharing
-
+* Office hours on Wednesday, Feb 11, at at 9.00-10.00, at https://utu.zoom.us/j/62780466942
+* Exercise dl on Monday, February 16 MORNING (08.00)
+* Correct answers:
+  
 #### Week 5
 * part_05-customising_spacy
-* Office hours on Wednesday, Feb 19, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
-* Exercise dl on Monday, February 24 MORNING (08.00)
-* Correct answers: https://drive.google.com/file/d/1s86FDMhY1EfhkXUEeelc-OcdNX1vAf7k/view?usp=sharing
-
+* Office hours canceled because of travels. If questions, please post on the discussion channel here and / or #humanistit-koodaa on Discord.
+* Exercise dl on Monday, February 23 MORNING (08.00)
+* Correct answers:
+  
 #### Week 6
 * part_06-evaluation
-* Office hours on Wednesday, Feb 26, at at 9.00-10.00, at https://utu.zoom.us/j/62780466942
-* Exercise dl on Monday, March 3 MORNING (08.00)
-* Correct answers: https://drive.google.com/file/d/1jgJnCWoCX76jsjvRCJlgNXlFJEXNRA3R/view?usp=sharing
+* Office hours canceled because of travels. If questions, please post on the discussion channel here and / or #humanistit-koodaa on Discord.
+* Exercise dl on Monday, March 2 MORNING (08.00)
+* Correct answers: 
 
 #### Week 7
 * part_07-pandas_basics
-* Office hours on Wednesday, March 5, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
-* Exercise dl on Monday, March 10 MORNING (08.00)
+* Office hours on Wednesday, March 4, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
+* Exercise dl on Monday, March 9 MORNING (08.00)
 * Correct answers:
 
 
@@ -109,8 +109,4 @@ Remember that
 * part_08-final_exam
 * dl March 24 (23.59)
 
-#### AFTER THE EXAM
-* part_09_grade_my_work
-* When you are happy with the exam result, do this! It only takes a minute.
-* dl March 24
-* I will mark your grade to Peppi once this is done!
+
