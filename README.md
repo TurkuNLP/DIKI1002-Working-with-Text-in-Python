@@ -64,25 +64,25 @@ Remember that
 
 #### Week 1
 * part_01-a_taste_of_python
-* Office hours on Wednesday, January 21, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
+* Office hours on Wednesday, January 21, at 9.00-9.30, at https://utu.zoom.us/j/62780466942
 * Exercise dl on Monday, Jan 26 MORNING (08.00)
 * Correct answers:
   
 #### Week 2
 * part_02-loading_data
-* Office hours on Wednesday, January 28, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
+* Office hours on Wednesday, January 28, at 9.00-9.30, at https://utu.zoom.us/j/62780466942
 * Exercise dl on Monday, February 2 MORNING (08.00)
 * Correct answers:
   
 #### Week 3
 * part_03-regular_expressions
-* Office hours on Wednesday, February 4, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
+* Office hours on Wednesday, February 4, at 9.00-9.30, at https://utu.zoom.us/j/62780466942
 * Exercise dl on Monday, February 9 MORNING (08.00)
 * Correct answers: 
 
 #### Week 4
 * part_04-spacy_basics
-* Office hours on Wednesday, Feb 11, at at 9.00-10.00, at https://utu.zoom.us/j/62780466942
+* Office hours on Wednesday, Feb 11, at at 9.00-9.30, at https://utu.zoom.us/j/62780466942
 * Exercise dl on Monday, February 16 MORNING (08.00)
 * Correct answers:
   
@@ -100,7 +100,7 @@ Remember that
 
 #### Week 7
 * part_07-pandas_basics
-* Office hours on Wednesday, March 4, at 9.00-10.00, at https://utu.zoom.us/j/62780466942
+* Office hours on Wednesday, March 4, at 9.00-9.30, at https://utu.zoom.us/j/62780466942
 * Exercise dl on Monday, March 9 MORNING (08.00)
 * Correct answers:
 
