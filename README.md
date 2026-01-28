@@ -65,13 +65,13 @@ Remember that
 #### Week 1
 * part_01-a_taste_of_python
 * Office hours on Wednesday, January 21, at 9.00-9.30, at https://utu.zoom.us/j/62780466942
-* Exercise dl on Monday, Jan 26 MORNING (08.00)
+* Exercise dl on Monday, Feb 9 MORNING (08.00)
 * Correct answers:
   
 #### Week 2
 * part_02-loading_data
 * Office hours on Wednesday, January 28, at 9.00-9.30, at https://utu.zoom.us/j/62780466942
-* Exercise dl on Monday, February 2 MORNING (08.00)
+* Exercise dl on Monday, February 9 MORNING (08.00)
 * Correct answers:
   
 #### Week 3
