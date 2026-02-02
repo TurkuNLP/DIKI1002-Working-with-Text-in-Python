@@ -77,7 +77,7 @@ Remember that
 #### Week 3
 * part_03-regular_expressions
 * Office hours on Wednesday, February 4, at 9.00-9.30, at https://utu.zoom.us/j/62780466942
-* Exercise dl on Monday, February 9 MORNING (08.00)
+* Exercise dl on Monday, February 16 MORNING (08.00)
 * Correct answers: 
 
 #### Week 4
